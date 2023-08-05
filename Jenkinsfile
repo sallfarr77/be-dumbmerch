@@ -1,8 +1,8 @@
 def branch = "staging"
 def repo = "git@github.com:sallfarr77/be-dumbmerch.git"
-def cred = "c6313984-c29b-42d2-82c3-014bb084c547"
+def cred = "ssh"
 def dir = "~/be-dumbmerch"
-def server = "sallfarr@103.186.1.14"
+def server = "sallfarr@116.193.190.5"
 def imagename = "be-dumbmerch"
 def dockerusername = "sallfarr"
 
