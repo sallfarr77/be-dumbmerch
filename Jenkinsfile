@@ -1,4 +1,4 @@
-def branch = "staging"
+def branch = "production"
 def repo = "git@github.com:sallfarr77/be-dumbmerch.git"
 def cred = "ssh"
 def dir = "~/be-dumbmerch"
